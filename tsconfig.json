@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "rootDir": ".",
+        "outDir": "./built/",
+        "noImplicitAny": false,
+        "noEmitOnError": true,
+        "removeComments": false,
+        "sourceMap": true,
+        "target": "ES2017"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
